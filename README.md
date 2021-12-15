@@ -5,7 +5,7 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/barbara-thomazelli/" target="_blank">
-<img align="center" alt="barbara-linkedin" height="30" width="40" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" style="max-width:100%;">
+<img align="center" alt="barbara-linkedin" height="50" width="50" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" style="max-width:100%;">
 </a>
 
 
